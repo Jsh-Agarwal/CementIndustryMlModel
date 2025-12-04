@@ -1,0 +1,6 @@
+group_id,group_name,condition_id,sequence_no,element_id,ele_name,wavelength_nm,att_value,channel_id,notes
+1,LAS 2023,1,1,1,FE,259.94,0,G1_C1_E1,"{""source"": ""left_table"", ""table"": ""attenuator"", ""full_element"": ""Iron"", ""range_min"": ""0.001"", ""range_max"": ""99.999""}"
+1,LAS 2023,1,2,2,C,193.091,2,G1_C1_E2,"{""source"": ""left_table"", ""table"": ""attenuator"", ""full_element"": ""Carbon"", ""range_min"": ""0.001"", ""range_max"": ""5.000""}"
+1,LAS 2023,1,3,3,SI,251.611,1,G1_C1_E3,"{""source"": ""left_table"", ""table"": ""attenuator"", ""full_element"": ""Silicon"", ""range_min"": ""0.001"", ""range_max"": ""3.000""}"
+1,LAS 2023,2,1,4,FE,259.94,1,G1_C2_E1,"{""source"": ""right_table"", ""table"": ""attenuator"", ""full_element"": ""Iron"", ""range_min"": ""0.001"", ""range_max"": ""99.999""}"
+1,LAS 2023,2,2,5,MN,257.61,0,G1_C2_E2,"{""source"": ""right_table"", ""table"": ""attenuator""}"

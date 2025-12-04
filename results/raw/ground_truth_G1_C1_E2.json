@@ -1,0 +1,36 @@
+{
+  "channel_id": "G1_C1_E2",
+  "element": "C",
+  "wavelength_nm": 193.091,
+  "att_value": 2,
+  "signal_length": 1000,
+  "peaks": [
+    {
+      "index": 0,
+      "position": 261.81684409102115,
+      "amplitude": 55.44258512800209,
+      "width": 16.694291274709762,
+      "sigma": 7.089412759984532,
+      "wavelength_nm": 193.091,
+      "att_value": 2
+    },
+    {
+      "index": 1,
+      "position": 467.02210791979064,
+      "amplitude": 61.6511062587046,
+      "width": 33.84878071019884,
+      "sigma": 14.374253685170224,
+      "wavelength_nm": 193.091,
+      "att_value": 2
+    },
+    {
+      "index": 2,
+      "position": 707.85674940045,
+      "amplitude": 127.01177537944056,
+      "width": 18.91855737236427,
+      "sigma": 8.033971603174297,
+      "wavelength_nm": 193.091,
+      "att_value": 2
+    }
+  ]
+}
